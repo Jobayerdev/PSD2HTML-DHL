@@ -1,6 +1,9 @@
 .slicknav_menu {
     display: none;
 }
+.slicknav_menu .slicknav_menutxt {
+    display: none;
+}
 
 /* @media screen and (max-width: 1100px) {} */
 @media screen and (max-width: 991px) {
