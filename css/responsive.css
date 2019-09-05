@@ -1,0 +1,137 @@
+.slicknav_menu {
+    display: none;
+}
+
+/* @media screen and (max-width: 1100px) {} */
+@media screen and (max-width: 991px) {
+    .js #menu {
+        display: none;
+    }
+
+    .js .slicknav_menu {
+        display: block;
+    }
+
+    #header-area {
+        padding: 5px;
+    }
+
+    .header-top-icon {
+        float: left;
+    }
+
+    .main-menu-wapper {
+        padding-top: 10px;
+    }
+
+    #demo,
+    .main-logo {
+        margin-top: 10px;
+    }
+
+    .main-logo {
+        float: left;
+    }
+
+    .mega-menu {
+        top: auto;
+        width: 70%;
+        margin-left: 20px;
+    }
+
+    .search-container {
+        float: right;
+    }
+
+    .search-container {
+        width: 100%;
+        text-align: right;
+        position: relative;
+    }
+
+    .slicknav_menu {
+        background: none;
+        padding: 0;
+    }
+
+    .slicknav_menutxt {
+        display: none;
+    }
+
+    .slicknav_menu .slicknav_icon {
+        float: none;
+        margin: 0;
+        padding: 0;
+        font-size: 22px;
+    }
+
+    .slicknav_menu .slicknav_icon-bar {
+        background: #ddd;
+    }
+
+    .slicknav_btn {
+        background: #d93300;
+    }
+
+    .slicknav_nav {
+        background: #f1f1f1;
+    }
+
+    .slicknav_nav li {
+        display: block !important;
+    }
+
+    .slicknav_nav li a {
+        margin: 0;
+    }
+
+    .header-top-icon {
+        float: left;
+    }
+}
+
+/* @media screen and (max-width: 767px) {} */
+
+/* @media screen and (max-width: 600px) {} */
+
+@media screen and (max-width: 500px) {
+
+    #header-area a,
+    #header-area .fa {
+        font-size: 80%;
+    }
+
+    .header-top-icon {
+        text-align: left;
+        width: 50%;
+    }
+
+    .header-top-icon li {
+        display: block;
+        width: 100%;
+    }
+
+    .search-container input[type="text"] {
+        width: 40%;
+    }
+
+    .left-side-wrapper {
+        padding: 0px 5px;
+    }
+
+    .left-side-wrapper li {
+        width: 100%;
+        margin-bottom: 1px;
+    }
+
+    .parsys-content {
+        margin-top: 50px;
+    }
+
+    .bottom-area {
+        text-align: center;
+        margin-top: 40px;
+    }
+}
+
+/* @media screen and (max-width: 400px) {} */
